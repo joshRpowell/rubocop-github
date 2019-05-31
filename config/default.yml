@@ -1,6 +1,7 @@
 require: 
   - rubocop/cop/github
   - rubocop-performance
+  - rubocop-rails
 
 AllCops:
   DisabledByDefault: true
